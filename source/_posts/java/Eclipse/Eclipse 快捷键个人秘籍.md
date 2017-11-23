@@ -34,10 +34,10 @@ tags:
 不同透视图之间快速切换，添加快捷键后，可以隐藏掉没用的toolbar。后续会添加自定义的透视图。
 ⌘F8可以在Toolbar上的透视图之间切换。
 透视图前缀：⌘P
-J：Java
-D：调试
+J：Java (换⌃1 与win下的alt1 相似)
+D：调试 (换⌃2)
 B：代码浏览
-G：Git
+G：Git (换⌃3)
 T：Team
 O：Toad 
 
