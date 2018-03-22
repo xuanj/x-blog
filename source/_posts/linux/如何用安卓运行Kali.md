@@ -1,6 +1,6 @@
 ---
 title: 如何用安卓运行Kali
-date: 2016-06-03 12:22:00
+date: 2017-01-03 22:22:00
 tags:
 - linux
 - kali

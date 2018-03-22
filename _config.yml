@@ -7,13 +7,13 @@ title: --禤剑--博客-->
 subtitle: 代码的横坚撇点捺
 description: 为什么学书法要临摹古代书法作品，因为Spring框架不是每个程序员都要写得出来，但，经典就要临摹学习
 author: xuanjian
-language: zh-Hans
+language: zh-CN
 timezone:
 avatar: /images/tb1.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://xuanjian.site
+url: http://xuanjian.vip
 root: /
 permalink: :title/
 permalink_defaults:
